@@ -15,9 +15,6 @@ I'm a data enthusiast on a quest to decode the secrets hidden in the realms of d
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=smmalik98&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=smmalik98&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=smmalik98&icon=1&color=1)](https://visitcount.itsvg.in)
 
