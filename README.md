@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a data scientist and cloud solutions architect with a Master's in Information Management from the University of Illinois, I thrive at the intersection of data and innovation. My expertise spans designing rigorous experiments and leading A/B testing initiatives that drive marketing strategies to new heights. I've engineered data pipelines for sophisticated Marketing Mixed Models, optimizing media spending with Bayesian flair. Additionally, I've harnessed the power of neural networks and IoT integration to revolutionize environmental data collection. Let's connect and turn data into your next big advantage!
+As a Data Scientist and Cloud Solutions Architect with a Master's in Information Management from the University of Illinois, Urbana-Champaign, I thrive at the intersection of data and innovation. My expertise spans designing rigorous experiments and leading A/B testing initiatives that drive marketing strategies to new heights. I've engineered data pipelines for sophisticated Marketing Mixed Models, optimizing media spending with Bayesian flair. Additionally, I've harnessed the power of neural networks and IoT integration to revolutionize environmental data collection. Let's connect and turn data into your next big advantage!
 
 
 ## 🌐 Socials:
